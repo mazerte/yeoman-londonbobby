@@ -1,0 +1,31 @@
+{
+  "name": "yeoman-londonbobby",
+  "version": "0.9.2",
+  "description": "Admin generator for Yeoman based on Foot Guard",
+  "keywords": [
+    "back-end",
+    "development",
+    "dev",
+    "build",
+    "backbone",
+    "web",
+    "tool",
+    "cli",
+    "scaffold",
+    "admin",
+    "backoffice"
+  ],
+  "bugs": "https://github.com/mazerte/yeoman-londonbobby/issues",
+  "author": "Mathieu Desvé",
+  "main": "./lib/generators",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mazerte/yeoman-londonbobby.git"
+  },
+  "dependencies": {
+	
+  },
+  "devDependencies": {
+
+  }
+}
